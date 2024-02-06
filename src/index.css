@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./HussarBoldWebEdition-xq5O.otf') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    background: url('./image.jpeg');
+    font-family: 'MyFont';
+}
